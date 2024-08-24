@@ -1,19 +1,13 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: kennysolorzano # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
+  - name: FG_Candelaria
+    url: https://candelaria.fortiddns.com
+  - name: FG_Caricuao
+    url: https://caricuao.fortiddns.com:8443
+    port: 8443
     check: "tcp-ping"
     ipv6: true
 
