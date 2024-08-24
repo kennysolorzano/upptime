@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: FG_Candelaria
-    url: https://candelaria.fortiddns.com:8443/
+    url: candelaria.fortiddns.com
     port: 8443
     check: "tcp-ping"
   - name: FG_Caricuao
