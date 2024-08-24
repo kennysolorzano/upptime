@@ -12,6 +12,8 @@ sites:
     url: https://caricuao.fortiddns.com
     port: 8443
     #check: "tcp-ping"
+assignees: 
+  - kennysolorzano
     
 
 status-website:
