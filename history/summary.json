@@ -1,22 +1,22 @@
 [
   {
     "name": "FG_Candelaria",
-    "url": "https://candelaria.fortiddns.com:8443/",
-    "icon": "https://icons.duckduckgo.com/ip3/candelaria.fortiddns.com.ico",
+    "url": "candelaria.fortiddns.com",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fg-candelaria",
     "status": "down",
-    "uptime": "1.04%",
-    "uptimeDay": "1.04%",
-    "uptimeWeek": "1.04%",
-    "uptimeMonth": "1.04%",
-    "uptimeYear": "1.04%",
+    "uptime": "0.93%",
+    "uptimeDay": "0.93%",
+    "uptimeWeek": "0.93%",
+    "uptimeMonth": "0.93%",
+    "uptimeYear": "0.93%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-24": 41
+      "2024-08-24": 47
     }
   },
   {
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fg-caricuao",
     "status": "up",
-    "uptime": "0.35%",
-    "uptimeDay": "0.35%",
-    "uptimeWeek": "0.35%",
-    "uptimeMonth": "0.35%",
-    "uptimeYear": "0.35%",
-    "time": 101,
-    "timeDay": 101,
-    "timeWeek": 101,
-    "timeMonth": 101,
-    "timeYear": 101,
+    "uptime": "12.34%",
+    "uptimeDay": "12.34%",
+    "uptimeWeek": "12.34%",
+    "uptimeMonth": "12.34%",
+    "uptimeYear": "12.34%",
+    "time": 169,
+    "timeDay": 169,
+    "timeWeek": 169,
+    "timeMonth": 169,
+    "timeYear": 169,
     "dailyMinutesDown": {
       "2024-08-24": 41
     }
