@@ -9,6 +9,8 @@ sites:
     check: "tcp-ping"
   - name: FG_Caricuao
     url: caricuao.fortiddns.com
+    port: 8080
+    check: "http"
     check: "tcp-ping"
     
 assignees: 
