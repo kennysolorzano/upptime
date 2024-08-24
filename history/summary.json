@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/candelaria.fortiddns.com.ico",
     "slug": "fg-candelaria",
     "status": "down",
-    "uptime": "2.09%",
-    "uptimeDay": "2.09%",
-    "uptimeWeek": "2.09%",
-    "uptimeMonth": "2.09%",
-    "uptimeYear": "2.09%",
+    "uptime": "1.52%",
+    "uptimeDay": "1.52%",
+    "uptimeWeek": "1.52%",
+    "uptimeMonth": "1.52%",
+    "uptimeYear": "1.52%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-24": 21
+      "2024-08-24": 28
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-24": 21
+      "2024-08-24": 28
     }
   }
 ]
