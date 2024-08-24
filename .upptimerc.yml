@@ -8,8 +8,7 @@ sites:
     port: 8443
     check: "tcp-ping"
   - name: FG_Caricuao
-    url: https://caricuao.fortiddns.com:8443/
-    port: 8443
+    url: caricuao.fortiddns.com
     check: "tcp-ping"
     
 assignees: 
