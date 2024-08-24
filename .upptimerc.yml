@@ -5,10 +5,11 @@ repo: upptime # The name of this repository
 sites:
   - name: FG_Candelaria
     url: https://candelaria.fortiddns.com:8443/
-    
+    port: 8443
   - name: FG_Caricuao
     url: https://caricuao.fortiddns.com:8443/
-
+    port: 8443
+    
 assignees: 
   - kennysolorzano
     
