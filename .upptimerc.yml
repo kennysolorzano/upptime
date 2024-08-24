@@ -11,7 +11,6 @@ sites:
     url: caricuao.fortiddns.com
     port: 8080
     check: "http"
-    check: "tcp-ping"
     
 assignees: 
   - kennysolorzano
