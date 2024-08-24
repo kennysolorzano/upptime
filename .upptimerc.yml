@@ -3,8 +3,11 @@ owner: kennysolorzano # Your GitHub organization or username, where this reposit
 repo: upptime # The name of this repository
 
 sites:
+  - name: Google
+    url: https://google.com
   - name: FG_Candelaria
     url: https://candelaria.fortiddns.com
+    port: 8443
   - name: FG_Caricuao
     url: https://caricuao.fortiddns.com
     port: 8443
