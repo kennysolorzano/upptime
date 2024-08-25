@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fg-candelaria",
     "status": "down",
-    "uptime": "0.34%",
-    "uptimeDay": "0.34%",
-    "uptimeWeek": "0.34%",
-    "uptimeMonth": "0.34%",
-    "uptimeYear": "0.34%",
+    "uptime": "0.24%",
+    "uptimeDay": "0.24%",
+    "uptimeWeek": "0.24%",
+    "uptimeMonth": "0.24%",
+    "uptimeYear": "0.24%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-24": 128
+      "2024-08-25": 48,
+      "2024-08-24": 130
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fg-caricuao",
     "status": "down",
-    "uptime": "67.93%",
-    "uptimeDay": "67.93%",
-    "uptimeWeek": "67.93%",
-    "uptimeMonth": "67.93%",
-    "uptimeYear": "67.93%",
+    "uptime": "48.85%",
+    "uptimeDay": "48.85%",
+    "uptimeWeek": "48.85%",
+    "uptimeMonth": "48.85%",
+    "uptimeYear": "48.85%",
     "time": 227,
     "timeDay": 227,
     "timeWeek": 227,
     "timeMonth": 227,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2024-08-24": 41
+      "2024-08-25": 48,
+      "2024-08-24": 43
     }
   }
 ]
